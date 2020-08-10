@@ -8,6 +8,7 @@
 <h3> Olá 😄 </h3>
 Meu nome é Geisse Costa, sou UX/UI Designer, formada em Publicidade e Propaganda. Atualmente, estou me especializando em UX e UI, através de uma pós-graduação, e buscando novas experiências profissionais na área. Também gosto muito de desenvolvimento front-end e estou sempre estudando sobre o assunto. 💜🚀
 
+
 - 💼 Trabalho como Web Designer e UX/UI Designer.
 - 💻 **Linguagens:** Html, CSS e JavaScript (por enquanto 🧐).
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, WordPress, SEO, Photoshop, Illustrator, Premiere, After Effects, InDesign, Figma, Adobe XD, Design Thinking, Facebook Ads, Google Ads, Google Analytics, Google Trends e Office. 
