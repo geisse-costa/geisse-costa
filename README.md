@@ -14,7 +14,7 @@ Meu nome é Geisse Costa, sou UX/UI Designer, formada em Publicidade e Propagand
 - 🚀 **Carreira:** Founder da startup LoriConecta.
 - 💻 **Linguagens:** HTML, CSS, JavaScript e C# (por enquanto 🧐).
 - 🎨 **Ferramentas:** Desenvolvimento (Visual Studio Code, GitHub, WordPress); Desenvolvimento de Games (Unity, Assets e Game Design Document); Design (Style Guide, Guideline, Design System, Figma, Pacote Adobe, Miro, Jira, Trello, Notion, Maze Design, MarvelApp); Inteligência Artificial (ChatGPT, Gemini, Copilot, Adobe Firefly, Midjourney); Métricas e Impulsionamento (Hotjar, Mixpanel, Google Analytics, Google Trends, Facebook Ads e Google Ads); Metodologias (Scrum, Kanban, Design Thinking, Double Diamond e Gamificação).
-- 📚 **Acadêmico:** Pós-graduação em UX/UI Design e Gestão de Projetos, cursando Mestrado Profissional em Inovação Tecnológica na UNIFESP.
+- 📚 **Acadêmico:** Formada em Publicidade e Propaganda, pós-graduação em UX/UI Design e Gestão de Projetos, cursando Mestrado Profissional em Inovação Tecnológica na UNIFESP.
 
 🧑‍💻**Soft Skills:**
 > Liderança;
