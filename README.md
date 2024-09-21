@@ -5,14 +5,14 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=http://medium.com/@geisse)](http://medium.com/@geisse)
 
 <h3> Olá 😄 </h3>
-Meu nome é Geisse Costa, sou UX/UI Designer, formada em Publicidade e Propaganda. Atualmente, estou me especializando em UX e UI, através de uma pós-graduação, e buscando novas experiências profissionais na área. Também gosto muito de desenvolvimento front-end e estou sempre estudando sobre o assunto. 💜🚀
+Meu nome é Geisse Costa, sou UX/UI Designer, formada em Publicidade e Propaganda, com pós-graduação em UX/UI Design e Gestão de Projetos. Atualmente, estou cursando o Mestrado Profissional em Inovação Tecnológica, sou voluntária no Centro de Estudos em Games e Internet (CEGI) da UNIFESP, mentora voluntária do Nexus, no Parque de Inovação Tecnológica de São José dos Campos, e founder da startup LoriConecta. Além disso, gosto muito de desenvolvimento de jogos e estou sempre estudando sobre o assunto. 🎮💜
 
 <p></p>
 
-- 💼 Trabalho como Web Designer e UX/UI Designer.
-- 💻 **Linguagens:** Html, CSS e JavaScript (por enquanto 🧐).
+- 💼 Founder da startup LoriConecta.
+- 💻 **Linguagens:** Html, CSS, JavaScript e C# (por enquanto 🧐).
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, WordPress, SEO, Photoshop, Illustrator, Premiere, After Effects, InDesign, Figma, Adobe XD, Design Thinking, Facebook Ads, Google Ads, Google Analytics, Google Trends e Office. 
-- 📚 **Acadêmico:** Cursando pós-graduação em User Experience (UX) e User Interface (UI), além de cursos na área de UX/UI e front-end. 
+- 📚 **Acadêmico:** Cursando Mestrado Profissional em Inovação Tecnológica na UNIFESP. 
 
 > :octocat:
 
