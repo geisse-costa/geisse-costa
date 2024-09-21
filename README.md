@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=http://medium.com/geisse)](http://medium.com/geisse)
 
 <h3> Olá 😄 </h3>
-Meu nome é Geisse Costa, sou UX/UI Designer, formada em Publicidade e Propaganda, com pós-graduação em UX/UI Design e Gestão de Projetos. Atualmente, estou cursando o Mestrado Profissional em Inovação Tecnológica, sou voluntária no Centro de Estudos em Games e Internet (CEGI) da UNIFESP, mentora voluntária do Nexus, no Parque de Inovação Tecnológica de São José dos Campos, e founder da startup LoriConecta. Além disso, gosto muito de desenvolvimento de jogos e estou sempre estudando sobre o assunto. 🎮💜
+Meu nome é Geisse Costa, sou UX/UI Designer, formada em Publicidade e Propaganda, com pós-graduação em UX/UI Design e Gestão de Projetos. Atualmente, estou cursando o Mestrado Profissional em Inovação Tecnológica, sou voluntária no Centro de Estudos em Games e Internet (CEGI) da UNIFESP, mentora voluntária do Nexus, no Parque de Inovação Tecnológica de São José dos Campos, e founder da startup LoriConecta. Além disso, gosto muito de desenvolvimento de jogos e estou sempre estudando sobre o assunto (desde 2017). 🎮💜
 
 <p></p>
 
